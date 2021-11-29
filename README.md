@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tarikul Nayem
+- 👋 Hi, I’m 𝕋𝕒𝕣𝕚𝕜𝕦𝕝 ℕ𝕒𝕪𝕖𝕞
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Software Testing with Automation
 - 💞️ I'm looking to collaborate on GitHub and also MySelf.  
